@@ -1,5 +1,5 @@
-# crud-cobrando-bpo
-# *PRUEBA DE DESARROLLO COBRANDO BPO*
+﻿
+# **PRUEBA DE DESARROLLO COBRANDO BPO**
 
 
 ### Librerías :
@@ -13,12 +13,12 @@
 
 Instalar con pip:
 
-
+```
 $ pip install -r requirements.txt
-
+```
 
 ## Estructura 
-
+```
 .
 |────COBRANDO_BPO
 |──────_init_.py
@@ -47,7 +47,7 @@ APPS
 
 
 
-
+```
 
 
 ## REQUISITOS
@@ -59,4 +59,4 @@ Teniendo en cuenta el siguiente modelo elabore un micro servicio para la tabla �
 ![image](https://images2.imgbox.com/52/c1/fAg0hBGa_o.png)
 
 
-El micro servicio tiene que interactuar con una DB de tipo POSTGRESQL, además de esto, es un plus si realiza el montaje por medio de Docker, aunque no es completamente necesario, su micro servicio tiene que estar disponible por el puerto 1234 además de tener las indicaciones pertinentes de uso.
+El micro servicio tiene que interactuar con una DB de tipo POSTGRESQL, además de esto, es un plus si realiza el montaje por medio de Docker, aunque no es completamente necesario, su micro servicio tiene que estar disponible por el puerto 1234 además de tener las indicaciones pertinentes de uso.       
